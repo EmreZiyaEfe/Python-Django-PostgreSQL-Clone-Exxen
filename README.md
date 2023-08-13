@@ -11,6 +11,7 @@
 ![](https://github.com/EmreZiyaEfe/Python-Django-PostgreSQL-Clone-Exxen/assets/84634905/9b4fb0b8-689e-4198-9a7a-b5fe2e73977b)
 ![](https://github.com/EmreZiyaEfe/Python-Django-PostgreSQL-Clone-Exxen/assets/84634905/2f4bd5cb-273c-4ccb-a6aa-9f829fe6e831)
 
-## Demo
+<!--## Demo
 
 [https://python-django-sqlite-clone-exxen.vercel.app/](https://python-django-sqlite-clone-exxen.vercel.app/)
+--!>
